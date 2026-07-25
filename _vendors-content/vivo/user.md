@@ -1,8 +1,7 @@
----
+120fbs---
 manufacturer: 
-    - vivo
 
----
+nsk nahid yt
 
 
 ## Autostart
